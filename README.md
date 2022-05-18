@@ -6,9 +6,6 @@
 [Pixel Art Together](https://pixelart.liveblocks.app) is a free multiplayer pixel art editor powered by [Liveblocks](https://liveblocks.io).
 
 
-
-
-
 ## Features
 
 ✏ Use different drawing tools<br>
@@ -26,8 +23,6 @@
 
 
 
-## Development
-Pixel Art Together was built by [Chris Nicholas](https://twitter.com/ctnicholasdev). Technology used in this project includes: Svelte, SvelteKit, Liveblocks, TailwindCSS, Shoelace.style
 
 ![Screenshot](https://pixelart.liveblocks.app/screenshot.png)
 
@@ -53,6 +48,3 @@ Pixel Art Together was built by [Chris Nicholas](https://twitter.com/ctnicholasd
 - Create a [secret](https://codesandbox.io/docs/secrets) named `VITE_LIVEBLOCKS_SECRET_KEY` with the secret key you just copied. You need to create an account on CodeSandbox to add an environment variable.
 
 - Refresh your browser, and you should be good to go!
-
-
-<br>![Powered by Liveblocks](https://pixelart.liveblocks.app/poweredbyliveblocks.svg)
